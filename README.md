@@ -43,6 +43,19 @@ G40,high,yes,excellent,yes
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
 
+Buying
+
+![305724398-2f1617ee-3b8b-4949-b559-84d13dddd2a3](https://github.com/JaisonRaphael/WDM_EXP2/assets/94165957/82681429-a685-41a3-81a5-0f1295f16b88)
+
+Banking
+
+![305724436-266846bb-2880-480e-adc4-890296873b17](https://github.com/JaisonRaphael/WDM_EXP2/assets/94165957/8846c6b0-0b66-46fc-beed-40ba08256f0a)
+
+Employee
+
+![305724571-56b295a7-e46b-4de7-9ea3-b5a0a33c46b5](https://github.com/JaisonRaphael/WDM_EXP2/assets/94165957/e6487cb2-091c-4f40-a5ac-c1f1989d419b)
+
+
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -54,4 +67,18 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 
+Buying
+
+![305724610-0022d356-e579-46e1-b924-9e1082c7ad2f](https://github.com/JaisonRaphael/WDM_EXP2/assets/94165957/68fc1a7c-5c8e-4117-b76f-c0267f5399b3)
+
+Banking
+
+![305724635-50c20e96-1339-4eab-8bb2-01aa447ede07](https://github.com/JaisonRaphael/WDM_EXP2/assets/94165957/5012ccf2-db4d-48e0-8d84-67b2c53710b7)
+
+Employee
+
+![305724653-56610c1b-150b-4a63-b76f-6863f802def4](https://github.com/JaisonRaphael/WDM_EXP2/assets/94165957/3a3823ea-0f8d-4d58-ad0c-c5ce52e0dd80)
+
+
 ### RESULT: 
+Thus, generation of association rules using apriori algorithm is executed succesfully.
